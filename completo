@@ -1,52 +1,157 @@
-Mi nombre es Felipe vivo en Bogotá y tengo 34 años y he trabajado en desarrollo de software los ultimos 4 años.
-telefono: 311 111 11 11
-
-
-GIT es un sistema de control de versiones de codigo. // que fue creado por Linus Torvalds
- 
- 
- 
-
-
-
-
-
-
-que es VSCODE es un editor de texto/codigo
-
-ATOM
-SUblime Text
-Notepad ++
-Eclipse
-
-
-
-
-
+Rafael Garcia to Everyone (7:30 PM)
+Buenas noches a todos!
+Judith Meza Cabrera to Everyone (7:30 PM)
+Buenas noches
+Nicolas Botero Alviar to Everyone (7:30 PM)
+Buenas noches
+TANG JANNY VARGAS RINCON to Everyone (7:30 PM)
+Buenas noches
+rodolfo ruidiaz to Everyone (7:31 PM)
+buenas noches
+Kevin Graterol to Everyone (7:31 PM)
+soft skill
+manifestó de agile
+maria carmona to Everyone (7:32 PM)
+buenas noches
+diego cortés to Everyone (7:32 PM)
+Buenas noches
+Camila Mendez to Everyone (7:32 PM)
+Buenas noches
+David Amador to Everyone (7:32 PM)
+si un poco
+TANG JANNY VARGAS RINCON to Everyone (7:32 PM)
+un poquito
+David Amador to Everyone (7:32 PM)
+aun me cuesta crear repositorios
+Rafael Garcia to Everyone (7:33 PM)
+El contenido del video de cómo subir la tarea
+Ana Leidis Ayala to Everyone (7:33 PM)
+Buenas Noches
+Byron Poveda to Everyone (7:34 PM)
+buenas noches, me podrían dar contexto pls
+Jorge Novoa to Everyone (7:36 PM)
+no han dicho nada relevante Byron tranqui
+Carlos Palacios to Everyone (7:37 PM)
+Cierren los micrófonos, por favor.
+Byron Poveda to Everyone (7:37 PM)
+vale, gracias jorge
+Jorge Novoa to Everyone (7:40 PM)
+Por favor la gente que tiene microfono abierto muteensen para escuchar al profe plz
 Erik Lara to Everyone (7:47 PM)
 Buenas, que es un repositorio?
-
 Juan Felipe Montenegro Mendoza to Everyone (7:48 PM)
 Profe que pena eso se programa en git si?
-
 Raul andres Ramirez bocanegra to Everyone (7:50 PM)
 Compañeros estan entendiendo ?
-
+maria carmona to Everyone (7:50 PM)
+nada
+Byron Poveda to Everyone (7:50 PM)
+la verdad no entiendo
+Cristian Antonio to Everyone (7:50 PM)
+no realmente
+Juan Felipe Montenegro Mendoza to Everyone (7:50 PM)
+no mucho
+nada
 Raul andres Ramirez bocanegra to Everyone (7:50 PM)
 Esta clase es solo para Linux ?
-
-
-
-
-
+Kevin Graterol to Everyone (7:51 PM)
+jejeje yo PS siento que es Github en D.O.S.
+CAMILO RIVERA MONROY to Everyone (7:51 PM)
+pense que las clases eran como las de la portada de la hoja de vida
+Carlos Pachon to Everyone (7:51 PM)
+En caso estoy perdido???
+Carlos Palacios to Everyone (7:51 PM)
+Son comandos de Git
+maria carmona to Everyone (7:51 PM)
+yo creo que nos toca familiarizarnos con git con videos en YouTube y después volver a ver la clase
+Cristian Cano to Everyone (7:51 PM)
+el aplicativo que esta usando es GIT y se utiliza de igual forma en wind... y en linux
+Carlos Pugliese to Everyone (7:52 PM)
+creo igual
+Mariana Nova to Everyone (7:52 PM)
+no entiendo nada 😟
+Nicolas Botero Alviar to Everyone (7:52 PM)
+comparto lo que dice maria carmona
+Laura Bohada to Everyone (7:52 PM)
+no he entendido :(
+Kevin Graterol to Everyone (7:52 PM)
+Git trabaja en Windows como una ventan de comandos o powershell
+Elkin Mejía to Everyone (7:52 PM)
+si no estoy mal esta utilizando git bash
+CAMILO RIVERA MONROY to Everyone (7:52 PM)
+el git es un programa para ir guardando y subiendo codigos
+Kevin Graterol to Everyone (7:53 PM)
+igual que github
+y la interfaz es más amigable
+Cristian Cano to Everyone (7:53 PM)
+si es git bash asi se llama en windows
+Kevin Graterol to Everyone (7:53 PM)
+en github
+Paulo Toro to Everyone (7:53 PM)
+¿Para qué se usa GitHub?
+GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración. Te permite a ti y a otros trabajar juntos en proyectos desde cualquier lugar.
+Kevin Graterol to Everyone (7:54 PM)
+igual que git?
+Cristian Cano to Everyone (7:54 PM)
+es el medio para subirlo git
+Kevin Graterol to Everyone (7:55 PM)
+solo que en git se usa una ventana de comandos
+Cristian Cano to Everyone (7:55 PM)
+y GitHub es donde se almacena
+Kevin Graterol to Everyone (7:55 PM)
+pero si en github también lo subes
+en github te deja crearlo en local y subirlo despues
+igual que git
+Cristian Cano to Everyone (7:55 PM)
+si solo que uno es por botones y el otro por comandos
+Kevin Graterol to Everyone (7:55 PM)
+eso entiendo yo
+exacto
+es más amigable la interfaz de github pero obvio debemos saber manejar ambas plataformas o herramientas
+Juan Herrera to Everyone (7:56 PM)
+compañeros, pregunten en clase, no sean tímidos con el profe, pues no todo se puede ir a consultar a youtube
+sin miedo
 Paulo Toro to Everyone (7:56 PM)
 ¿cual es la diferencia? En pocas palabras, Git es un sistema de control de versiones que le permite administrar y realizar un seguimiento de su historial de código fuente. GitHub es un servicio de hospedaje basado en la nube que le permite administrar los repositorios de Git. Si tiene proyectos de código abierto que usan Git, entonces GitHub está diseñado para ayudarlo a administrarlos mejor.
-
-
+Cristian Antonio to Everyone (7:57 PM)
+ya entiendo
+Paulo Toro to Everyone (7:57 PM)
+¿Necesito Git para GitHub?
 Git es una herramienta de control de versiones de código abierto creada en 2005 por desarrolladores que trabajan en el sistema operativo Linux; GitHub es una empresa fundada en 2008 que fabrica herramientas que se integran con git. No necesita GitHub para usar git, pero no puede usar GitHub sin usar git.
-
-
-
+Byron Poveda to Everyone (7:58 PM)
+una pregunta, a alguno de ustdes le dijeron q tenia q documentarse sobre git y sus herramientas?
+Juan Herrera to Everyone (7:59 PM)
+se se ponen a escribir y leer acá se pierden la clase, mejor interrumpan pues la atención no puede estar en el chat y lo que hace el profe... se ponen a leer y cuando vean la pantalla ya la clase se está terminando jeje
+Kevin Graterol to Everyone (7:59 PM)
+lo que no entiendo es si eso que el está haciendo se puede hacer con github y vscode. xq nos enredamos con esos comandos?
+Carlos Palacios to Everyone (7:59 PM)
+No, como desarrollador necesitas esas herramientas
+Kevin Graterol to Everyone (8:00 PM)
+si es mejor esperar al final la clase
+Cristian Cano to Everyone (8:00 PM)
+no el VSC es para editar, y el git o el GitHub es para subir los cambios a las nube
+Erik Lara to Everyone (8:02 PM)
+exacto
+Erik Lara to Everyone (8:02 PM)
+Estoy igual que tu amiga
+Wilber Romero Constain to Everyone (8:02 PM)
+totalmente de acuerdo
+Nicolas Botero Alviar to Everyone (8:02 PM)
+siiiiii, exacto, estoy igual, en cero
+Carlos Pugliese to Everyone (8:02 PM)
+estoy en las mismas
+Ana Leidis Ayala to Everyone (8:02 PM)
+Estoy igual
+Yojhan Romero to Everyone (8:03 PM)
+totalmente de acuerdo no entiendo absolutamente nada de lo que están hablando
+Cristian Antonio to Everyone (8:03 PM)
+estamos en lo mismo
+Byron Poveda to Everyone (8:03 PM)
+exactamente, decía de 0 y ps no estoy entendjendo nada lo relacionado de lo que esta hablando sobre git
+diego cortés to Everyone (8:03 PM)
+me uno
+Erik Lara to Everyone (8:04 PM)
+pars wue sirve git
 y para que vamos a usrarlo
 Wilber Romero Constain to Everyone (8:05 PM)
 por favor, las personas que ya tengan conocimiento sobre programación tener paciencia con los que no lo tenemos y tratar de acoplarse a nuestro ritmo, nosotros pondremos de nuestra parte para no quedarnos atrás
@@ -135,7 +240,6 @@ Para despejar dudas y estar seguros, por favor sigamos los siguientes pasos:
 3- Click en 'Continuar Estudiando' (aparece Full Stack Developer)
 4- Precurso LatAm
 5- Conceptos básicos de Git y Github
-
 julian gil to Everyone (8:43 PM)
 ls es para ver las carpetas q hay donde esta el gif en ese momento
 Raul andres Ramirez bocanegra to Everyone (8:44 PM)
